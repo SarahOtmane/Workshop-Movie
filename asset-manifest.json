@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Workshop-Movie/static/css/main.8a94dc4a.css",
+    "main.js": "/Workshop-Movie/static/js/main.98293cd5.js",
+    "static/js/787.dd970d66.chunk.js": "/Workshop-Movie/static/js/787.dd970d66.chunk.js",
+    "index.html": "/Workshop-Movie/index.html",
+    "main.8a94dc4a.css.map": "/Workshop-Movie/static/css/main.8a94dc4a.css.map",
+    "main.98293cd5.js.map": "/Workshop-Movie/static/js/main.98293cd5.js.map",
+    "787.dd970d66.chunk.js.map": "/Workshop-Movie/static/js/787.dd970d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a94dc4a.css",
+    "static/js/main.98293cd5.js"
+  ]
+}
